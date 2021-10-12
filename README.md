@@ -17,7 +17,7 @@
 <div>
   <h3> 💻 Lenguajes y herramientas </h3>
   <p>
-   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://roszkowski.dev/images/2020-05-04/flutter_logo_leg.gif" width="60"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png" width="80">
+   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://roszkowski.dev/images/2020-05-04/flutter_logo_leg.gif" width="60"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png" width="80"><img src="https://cdn.goconqr.com/uploads/node/image/42550250/3e9cb3a5-aad5-4fd5-9aa3-84948f787330.png" width="50">
   <p>
 </div> 
 
