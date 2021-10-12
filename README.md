@@ -1,23 +1,23 @@
-<h1 align="center">Hey there! I'm Sachin Vilas Nagane 👋 </h1>
-<h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
+<h1 align="center">¡Hola! Soy Irvin Silva 👋 </h1>
+<h3 align="center">🚀 | Open Source ♥ | Devops | Competitive Programmer |  🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
-  <h3> 👨🏻‍💻 About Me </h3>
+  <h3> 👨🏻‍💻 Sobre mí </h3>
 
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Computer Science and Engineering.
-  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+  - 🤔 &nbsp; Exploro nuevas tecnologías y formas de aprender. 
+  - 🎓 &nbsp; Estudio Ingenieria de Sistemas en la Universidad Industrial de Santander 💚.
+  - 💼 &nbsp; Actualmente me encuentro desarrollando proyectos de Econometría y Data Science con Python.
+  - 🌱 &nbsp; Tengo intereses en la economía, estadistica, data Science, machine learning y deep learning.
+  - 💔 &nbsp; Manejo técnologias de desarrolo web, pero no es mi punto fuerte. ಥ_ಥ
+  - 🌞 &nbsp; Creo en futuro brillante para Colombia en tecnología. 
 </div> 
 </div>
 
 <div>
-  <h3> 💻 Languages and Tools </h3>
+  <h3> 💻 Lenguajes y herramientas </h3>
   <p>
-   <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
+   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://roszkowski.dev/images/2020-05-04/flutter_logo_leg.gif" width="60"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png" width="80">
   <p>
 </div> 
 
-⭐️ From [SAchu47](https://github.com/SAchu47)
